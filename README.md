@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Diogo👋
 
 - 🔭 Entusiasta da Programação
 - 🌱 Estudando atualmente Front-end e Automação industrial
