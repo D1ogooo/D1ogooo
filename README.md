@@ -4,8 +4,6 @@
 - 🌱 Estudando atualmente Front-end e Automação industrial
 - 📫 Contate-me: diiogomarsalcosta@gmail.com
 
-![Header](./your-header-image-name.png)
-
 <div align="center">
   <a href="https://github.com/D1ogooo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D1ogooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,3 +21,5 @@
   <a href="https://instagram.com/diac.diogo_curas_e_libertacoes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatodiiogomarsalcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+//![Header](./your-header-image-name.png)
