@@ -4,6 +4,8 @@
 - 🌱 Estudando atualmente Front-end e Automação industrial
 - 📫 Contate-me: diiogomarsalcosta@gmail.com
 
+![Header](./your-header-image-name.png)
+
 <div align="center">
   <a href="https://github.com/D1ogooo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D1ogooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
