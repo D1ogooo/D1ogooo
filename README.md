@@ -3,6 +3,7 @@
 - 🔭 Entusiasta da Programação
 - 🌱 Estudando atualmente Front-end e Automação industrial
 - 📫 Contate-me: diiogomarsalcosta@gmail.com
+- 📫 Instagram: diogoo_0202
 
 <div align="center">
   <a href="https://github.com/D1ogooo">
