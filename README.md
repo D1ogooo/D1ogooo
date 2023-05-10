@@ -1,7 +1,7 @@
 ### Olá, sou Diogo👋
 
 - 🔭 Entusiasta da Programação
-- 🌱 Estudando atualmente Front-end e Automação industrial
+- 🌱 Desenvolvedor Front-end
 - 📫 Contate-me: diiogomarsalcosta@gmail.com
 
 <div align="center">
