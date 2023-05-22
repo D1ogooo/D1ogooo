@@ -15,8 +15,6 @@
 
 <img align="center" alt="Diogo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="Diogo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-![html-5_icon-icons com_70943](https://github.com/D1ogooo/D1ogooo/assets/119339116/d983fa65-580f-4129-8618-1de665a01f38)
-
 
 <!--   <img align="center" alt="Diogo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> -->
 
