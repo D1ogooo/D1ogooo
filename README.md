@@ -1,28 +1,18 @@
-  ### Olá, sou Diogo👋 ###
+# 💫 About Me:
+🔭 Estudante de programação WEB<br>🌱 Cursando desenvolvimento de sistemas<br>
 
-- 🔭 Entusiasta da Programação
-- 🌱 Desenvolvedor Front-end
-- 📫 Contate-me: diiogomarsalcosta@gmail.com
 
-<div align="center">
-  <a href="https://github.com/D1ogooo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D1ogooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1ogooo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div align="center" style="display: inline_block>
-<div style="display: inline_block"><br>
-  <h1 align="center" color="purple">Experiencia</h1>
-  <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img align="center" alt="Diogo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/manzas#0825) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-manzano-13094127a/) 
 
-<div style="display: inline_block>                                                                                                            
-<img align="center" alt="Diogo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="center" alt="Diogo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
- 
-<div>
-  <br>
-  <a href = "mailto:contatodiiogomarsalcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VictorManzano&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VictorManzano&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorManzano&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VictorManzano&icon=5&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
