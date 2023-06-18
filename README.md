@@ -1,5 +1,5 @@
 # 💫 Sobre min:
-🔭 Estudante de programação WEB<br>🌱 Cursando desenvolvimento de sistemas<br>
+🔭 Desenvolvedor Frontend
 
 
 ## 🌐 Socials:
