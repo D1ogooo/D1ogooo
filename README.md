@@ -1,4 +1,4 @@
-# 💫 Sobre min:
+# 💫 About me:
 🔭 Desenvolvedor Frontend
 
 
