@@ -14,7 +14,7 @@
 
 
 
-<img align="center" height="30" width="40" src="[https://icons8.com.br/icon/ttxR7mXaDvqS/styled-components](https://github.com/D1ogooo/D1ogooo/assets/119339116/5706b31a-d57d-418b-bd42-2fce5833030c)" />
+<img align="center" height="30" width="40" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/5706b31a-d57d-418b-bd42-2fce5833030c" />
 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
