@@ -11,8 +11,6 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-![icons8-styled-components-48](https://github.com/D1ogooo/D1ogooo/assets/119339116/7d91d8d2-ae8b-4564-8a2d-4f7a02483297)
-<img align="center" height="30" width="40" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/7d91d8d2-ae8b-4564-8a2d-4f7a02483297" />
 
 
 <img align="center" height="30" width="40" src="https://icons8.com.br/icon/ttxR7mXaDvqS/styled-components" />
