@@ -1,5 +1,5 @@
 # 💫 About me:
- 🔭 Desenvolvedor Frontend
+ 🔭 - Desenvolvedor Frontend
 
 
 ## 🌐 Socials:
