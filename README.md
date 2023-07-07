@@ -12,7 +12,7 @@
 
 
   
-<img align="center" height="30" width="40" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/4f7a9ffc-12dd-4498-be51-2ca727ec8649" />
+<img align="center" height="40" width="50" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/4f7a9ffc-12dd-4498-be51-2ca727ec8649" />
 
 
   
