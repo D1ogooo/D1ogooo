@@ -11,7 +11,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
   
-<img align="center" height="30" width="40" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/017e17d2-5dc3-4759-bc82-9dfe07118178" />
+<img align="center" height="40" width="50" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/017e17d2-5dc3-4759-bc82-9dfe07118178" />
 
 
   
