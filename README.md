@@ -1,4 +1,4 @@
-# 💫 About me:
+# 💫 Sobre mim:
  🔭 - Desenvolvedor Frontend
 
 Portifólio: https://portif-main-xady.vercel.app/
@@ -6,7 +6,7 @@ Portifólio: https://portif-main-xady.vercel.app/
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By8VO8UlkQJe4czygj0o2Yw%3D%3D)
 
-# 💻 Tech Stacks:
+# 💻 Habilidades:
 <div style="display: inline_block">
 <img align="center" height="40" width="50" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/4d3b2b53-2be7-4933-ab86-7179f9286bfa" />
 <img align="center" height="40" width="50" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/4f7a9ffc-12dd-4498-be51-2ca727ec8649" />
