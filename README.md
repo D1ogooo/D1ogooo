@@ -1,6 +1,7 @@
 # 💫 Sobre mim:
  🔭 - Desenvolvedor Frontend
-![Header](./your-header-image-name.png)
+![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/36a009a5-c450-4cca-9cce-3ba1edb7dd24)
+
 Portifólio: https://portifolio-diogo-eosin.vercel.app/
 
 ## 🌐 Contatos: 
