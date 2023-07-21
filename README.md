@@ -1,7 +1,6 @@
 # 💫 Sobre mim:
 
-![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/c6f37721-444c-4208-b146-c36a281d14a9) 
-
+![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/a72d6164-7ffe-4317-a791-e9862d3a0981) 
 
 🔭 - Desenvolvedor Frontend
 
