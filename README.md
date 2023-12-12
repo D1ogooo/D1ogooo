@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/c58063c9-da85-4dc5-a581-f26f76579219) 
 
-Portifólio: https://portifolio-diogo-eosin.vercel.app/
+Portifólio: 
 
 ## 🌐 Contatos: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By8VO8UlkQJe4czygj0o2Yw%3D%3D)
