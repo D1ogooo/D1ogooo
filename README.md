@@ -19,7 +19,7 @@ Portifólio:
 <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="center" height="35" width="35" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/a7f2e758-386a-4cb0-962d-d123757a21b7" />
 </div>
-![Uploading node-js.svg…]()
+
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=D1ogooo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
