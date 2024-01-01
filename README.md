@@ -4,8 +4,6 @@
 
 - 👨‍🎓 Desenvolvedor FullStack
 
-- Técnico em automação industrial
-
 - 🔭 Entusiasta da Programação
 
 - 19 anos
