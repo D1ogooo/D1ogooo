@@ -2,9 +2,9 @@
 
 ![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/c58063c9-da85-4dc5-a581-f26f76579219) 
 
-- 👨‍🎓 Desenvolvedor Front-end 
+- 👨‍🎓 Desenvolvedor FullStack
 
-- Estudante de Automação industrial
+- Técnico em automação industrial
 
 - 🔭 Entusiasta da Programação
 
