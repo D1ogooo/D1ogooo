@@ -1,10 +1,8 @@
 # 💫 Sobre mim:
 
 ![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/c58063c9-da85-4dc5-a581-f26f76579219) 
-Olá, sou Diogo 👋
 
 - 👨‍🎓 Desenvolvedor Front-end 
-
 
 - Estudante de Automação industrial
 
