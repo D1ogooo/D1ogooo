@@ -12,7 +12,7 @@
 Portifólio: https://portifolio-indol-six.vercel.app/
 
 ## 🌐 Contatos: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By8VO8UlkQJe4czygj0o2Yw%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-ma%C3%A7al-70a18a2a6/)
 
 # 💻 Habilidades:
 <div style="display: inline_block">
