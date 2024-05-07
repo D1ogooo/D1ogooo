@@ -23,12 +23,9 @@ Portifólio: https://portifolio-indol-six.vercel.app/
 <img align="center" height="35" width="35" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/4fa61d3b-2ca8-407d-8d1d-3961409f412f" />
 <img align="center" height="40" width="42" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/911c2901-6b2d-4808-8547-63da8cabab3f" />
 <img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/5706b31a-d57d-418b-bd42-2fce5833030c" />
-<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/d5b09df4-a2e4-4b70-90b8-1ad40eb1dc3e" />
 <img align="center" height="35" width="35" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/a7f2e758-386a-4cb0-962d-d123757a21b7" />
 </div>
-
-![icons8-tailwind-css](https://github.com/D1ogooo/D1ogooo/assets/119339116/d5b09df4-a2e4-4b70-90b8-1ad40eb1dc3e)]
-
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=D1ogooo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
