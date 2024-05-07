@@ -27,6 +27,8 @@ Portifólio: https://portifolio-indol-six.vercel.app/
 <img align="center" height="35" width="35" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/a7f2e758-386a-4cb0-962d-d123757a21b7" />
 </div>
 
+![icons8-tailwind-css](https://github.com/D1ogooo/D1ogooo/assets/119339116/d5b09df4-a2e4-4b70-90b8-1ad40eb1dc3e)]
+
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=D1ogooo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
