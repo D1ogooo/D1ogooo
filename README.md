@@ -9,7 +9,7 @@
 - 19 anos
 
 
-Portifólio: <a href='https://portifolio-sable-iota.vercel.app/'>a</a>
+Portifólio: <a href='https://portifolio-sable-iota.vercel.app/' target="_blank">🔭</a>
 
 ## 🌐 Contatos: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-ma%C3%A7al-70a18a2a6/)
