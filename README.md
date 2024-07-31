@@ -17,7 +17,7 @@ Portifólio: <a href='https://portifolio-sable-iota.vercel.app/' target="_blank"
 # 💻 Habilidades:
 <div style="display: inline_block">
 <img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-<img align="center" height="40" width="50" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/4f7a9ffc-12dd-4498-be51-2ca727ec8649" />
+<img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
 <img align="center" height="40" width="50" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/017e17d2-5dc3-4759-bc82-9dfe07118178" />
 <img align="center" height="40" width="50" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/de201ce0-d6aa-4b1b-9b80-6be90175054e"/>  
 <img align="center" height="35" width="35" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
