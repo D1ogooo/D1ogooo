@@ -21,12 +21,12 @@ Portifólio: <a href='https://portifolio-sable-iota.vercel.app/' target="_blank"
 <img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
 <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000"/>  
 <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
+<img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/e3725a7a-3954-4efd-b640-036f5c147742" />
 <img align="center" height="40" width="42" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
 <img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/5706b31a-d57d-418b-bd42-2fce5833030c" />
 <img align="center" height="35" width="35" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" />
 <img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/d5b09df4-a2e4-4b70-90b8-1ad40eb1dc3e" />
 <img align="center" height="35" width="35" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/a7f2e758-386a-4cb0-962d-d123757a21b7" />
-
 </div>
 
 # 📊 GitHub Status:
