@@ -6,7 +6,7 @@
 
 - 🔭 Entusiasta da Programação
 
-- 19 anos
+- 20 anos
 
 
 Portifólio: <a href='https://portifolio-sable-iota.vercel.app/' target="_blank">🔭</a>
