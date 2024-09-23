@@ -22,7 +22,7 @@ Portifólio: <a href='https://portifolio-sable-iota.vercel.app/' target="_blank"
 <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000"/>  
 <img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
 <img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/e3725a7a-3954-4efd-b640-036f5c147742" />
-<img align="center" height="50" width="50" src="https://github.com/user-attachments/assets/f6afaf23-81fe-4611-9af2-d50190b31556" />
+<img align="center" height="45" width="45" src="https://github.com/user-attachments/assets/f6afaf23-81fe-4611-9af2-d50190b31556" />
 <img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/25ee59e0-1d3b-4d9e-a5a4-fd79e277a167" />
 <img align="center" height="40" width="42" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
 <img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/5706b31a-d57d-418b-bd42-2fce5833030c" />
