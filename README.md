@@ -26,10 +26,10 @@ Portifólio: <a href='https://portifolio-ten-mauve.vercel.app/' target="_blank">
 <img align="center" height="40" width="42" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
 <img align="center" height="40" width="42" src="https://github.com/user-attachments/assets/658d70e1-2538-45fb-bd48-a77eb4061be6" />
 <!-- <img align="center" height="40" width="42" src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png?v=1957906705063198608" /> -->
-<img align="center" height="40" width="42" src="https://github.com/user-attachments/assets/1fe0a0d6-1187-40e3-b4e6-c711163b3ace" />
+<!-- <img align="center" height="40" width="42" src="https://github.com/user-attachments/assets/1fe0a0d6-1187-40e3-b4e6-c711163b3ace" />
 
   
-<img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/5706b31a-d57d-418b-bd42-2fce5833030c" />
+<img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/5706b31a-d57d-418b-bd42-2fce5833030c" /> -->
 <img align="center" height="35" width="35" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" />
 <img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/d5b09df4-a2e4-4b70-90b8-1ad40eb1dc3e" />
 <img align="center" height="35" width="35" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/a7f2e758-386a-4cb0-962d-d123757a21b7" />
