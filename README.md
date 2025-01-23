@@ -1,4 +1,4 @@
-![a](https://github.com/user-attachments/assets/b9136fcc-8da9-4ca4-83c7-e56926dada7a)# 💫 Sobre mim:
+# 💫 Sobre mim:
 
  <!--![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/c58063c9-da85-4dc5-a581-f26f76579219) -->
 
