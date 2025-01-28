@@ -1,20 +1,20 @@
-# 💫 Sobre mim:
+# 💫 About me:
 
  ![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/c58063c9-da85-4dc5-a581-f26f76579219) 
 
 
-- 👨‍🎓 Desenvolvedor Frontend na ``` @PlanBTech ```
+- 👨‍🎓 Developer Frontend at ``` @PlanBTech ```
 
-- 🔭 Entusiasta da Programação
+- 🔭 Programming Enthusiast
 
-- 20 anos
+- 20 Years
 
-Portifólio: <a href='https://portifolio-ten-mauve.vercel.app/' target="_blank">🔭</a>
+Portfolio: <a href='https://portifolio-ten-mauve.vercel.app/' target="_blank">🔭</a>
 
-## 🌐 Contatos: 
+## 🌐 Contacts: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-ma%C3%A7al-70a18a2a6/)
 
-# 💻 Habilidades:
+# 💻 Skills:
 <div style="display: inline_block">
 <img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
 <img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
