@@ -3,7 +3,7 @@
  ![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/c58063c9-da85-4dc5-a581-f26f76579219) 
 
 
-- 👨‍🎓 Desenvolvedor Frontend na @PlanBTech
+- 👨‍🎓 Desenvolvedor Frontend na ``` @PlanBTech ```
 
 - 🔭 Entusiasta da Programação
 
