@@ -1,8 +1,7 @@
 # 💫 About me:
 
- ![Header](https://github.com/user-attachments/assets/61d21f7d-e37c-46c9-a226-5209bfb28795)
 
-
+ ![Header](https://github.com/user-attachments/assets/489fd512-2e9a-423c-9b78-2dda21114d1e)
 
 - 👨‍🎓 Developer Frontend at ``` @PlanBTech ```
 
