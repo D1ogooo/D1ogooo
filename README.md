@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as React e Redux<br>- 📚 I'm currently learning Golang</p>
+<p align="left">🔭 I’m working as React e Redux<br>- 📚 I'm currently learning Golang</p>
 
 ###
 
