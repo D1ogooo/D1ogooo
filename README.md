@@ -14,9 +14,8 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
 ###
-💻 I'm software developer at ```@PlanBTech```
+software developer at ```@PlanBTech```
 <p align="left">- 🔭 I’m working as React e Redux<br>- 📚 I'm currently learning Golang</p>
 
 ###
