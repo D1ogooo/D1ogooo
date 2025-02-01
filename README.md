@@ -54,6 +54,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=D1ogooo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=D1ogooo&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=D1ogooo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
