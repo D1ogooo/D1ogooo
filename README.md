@@ -1,43 +1,67 @@
-# 💫 About me:
-
-
- ![Header](https://github.com/user-attachments/assets/489fd512-2e9a-423c-9b78-2dda21114d1e)
-
-- 👨‍🎓 Developer Frontend at ``` @PlanBTech ```
-
-- 🔭 Programming Enthusiast
-
-- 20 Years
-
-Portfolio: <a href='https://portifolio-ten-mauve.vercel.app/' target="_blank">🔭</a>
-
-## 🌐 Contacts: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-ma%C3%A7al-70a18a2a6/)
-
-# 💻 Skills:
-<div style="display: inline_block">
-<img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-<img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" />
-<img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
-<img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000"/>  
-<img align="center" height="40" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
-<img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/e3725a7a-3954-4efd-b640-036f5c147742" />
-<img align="center" height="45" width="45" src="https://github.com/user-attachments/assets/f6afaf23-81fe-4611-9af2-d50190b31556" />
-<img align="center" height="40" width="40" src="https://github.com/user-attachments/assets/25ee59e0-1d3b-4d9e-a5a4-fd79e277a167" />
-<img align="center" height="40" width="42" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
-<img align="center" height="40" width="42" src="https://github.com/user-attachments/assets/658d70e1-2538-45fb-bd48-a77eb4061be6" /> 
-<img align="center" height="40" width="42" src="https://github.com/user-attachments/assets/1fe0a0d6-1187-40e3-b4e6-c711163b3ace" />
-<img align="center" height="40" width="42" src="https://github.com/user-attachments/assets/b9136fcc-8da9-4ca4-83c7-e56926dada7a" />
-
-  
-<img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/5706b31a-d57d-418b-bd42-2fce5833030c" /> 
-<img align="center" height="35" width="35" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" />
-<img align="center" height="30" width="30" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/d5b09df4-a2e4-4b70-90b8-1ad40eb1dc3e" />
-<img align="center" height="35" width="35" src="https://github.com/D1ogooo/D1ogooo/assets/119339116/a7f2e758-386a-4cb0-962d-d123757a21b7" />
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=D1ogooo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=D1ogooo&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=D1ogooo&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+###
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
