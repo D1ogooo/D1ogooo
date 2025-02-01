@@ -1,6 +1,7 @@
 # 💫 About me:
 
- ![Header](https://github.com/D1ogooo/D1ogooo/assets/119339116/c58063c9-da85-4dc5-a581-f26f76579219) 
+ ![Header](https://github.com/user-attachments/assets/61d21f7d-e37c-46c9-a226-5209bfb28795)
+
 
 
 - 👨‍🎓 Developer Frontend at ``` @PlanBTech ```
