@@ -1,5 +1,3 @@
-   // meu
-
 ![Header](https://github.com/user-attachments/assets/489fd512-2e9a-423c-9b78-2dda21114d1e)
 ###
 
