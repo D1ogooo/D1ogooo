@@ -18,7 +18,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 Software developer at ```@PlanBTech```
-<p align="left">- 🔭 I’m working as React e Redux<br>- 📚 I'm currently learning Golang</p>
+<p align="left">- 🔭 I’m working as React and Redux<br>- 📚 I'm currently learning Golang</p>
 
 ###
 
